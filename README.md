@@ -9,7 +9,6 @@ I'm a Robotic Software Engineer who's passionate about transforming ideas into r
 - 🌱 I’m continually learning and growing my knowledge in ROS and AI.
 - 🤝 I’m looking to collaborate on innovative robotics projects.
 - 💬 Ask me about anything related to robotics, I am happy to help.
-- 📫 How to reach me: ahmadyalireza75@gmail.com(ahmadyalireza75@gmail.com)
 - ⚡ Fun fact: In my free time, I build miniature robots and run a robotics youtube channel.
 
 ## 🎈 Let's Connect and Shape the Future Together
