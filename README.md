@@ -1,6 +1,7 @@
 # Hi there, I'm Alireza! 👋
 
-## 👨‍💻 Expert Robotic Software Engineer | 📍 Germany
+## 👨‍💻 Expert Robotic Software Engineer
+
 I'm a Robotic Software Engineer who's passionate about transforming ideas into reality. Whether it's designing algorithms for autonomous navigation or developing intelligent control systems, I believe in harnessing the power of robotics to reshape our future.
 
 ## 🤖 About Me
