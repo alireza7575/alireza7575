@@ -1,8 +1,8 @@
 # Hi there, I'm Alireza! 👋
 
-## 👨‍💻 Expert Robotic Software Engineer
+## 👨‍💻 Expert Software Engineer
 
-I'm a Robotic Software Engineer who's passionate about transforming ideas into reality. Whether it's designing algorithms for autonomous navigation or developing intelligent control systems, I believe in harnessing the power of robotics to reshape our future.
+I'm a Software Engineer who's passionate about transforming ideas into reality. Whether it's designing algorithms for autonomous navigation or developing intelligent control systems, I believe in harnessing the power of robotics to reshape our future.
 
 ## 🤖 About Me
 
@@ -10,7 +10,7 @@ I'm a Robotic Software Engineer who's passionate about transforming ideas into r
 - 🌱 I’m continually learning and growing my knowledge in ROS and AI.
 - 🤝 I’m looking to collaborate on innovative robotics projects.
 - 💬 Ask me about anything related to robotics, I am happy to help.
-- ⚡ Fun fact: In my free time, I build miniature robots and run a robotics youtube channel.
+- ⚡ Fun fact: I build miniature robots and run a robotics YouTube channel in my free time.
 
 ## 🎈 Let's Connect and Shape the Future Together
 - 🎫 LinkedIn: Find my professional journey and connect with me on [LinkedIn](https://www.linkedin.com/in/alireza-ahmadii/)
