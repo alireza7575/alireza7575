@@ -31,15 +31,6 @@ I build reliable software for web platforms, industrial systems, automation, rob
 - 3D printing and DIY robotics
 - Technical learning and knowledge sharing
 
-## GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza7575&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
-
 ## Codewars
 
 [![CodeWars](https://www.codewars.com/users/Alireza7575/badges/large)](https://www.codewars.com/users/Alireza7575)
-
-<p align="right">
-  <b><i>Profile visitors since 2023-07-01</i></b>
-  <img src="https://komarev.com/ghpvc/?username=alireza7575&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
